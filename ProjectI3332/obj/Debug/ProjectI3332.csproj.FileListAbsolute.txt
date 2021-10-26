@@ -1,0 +1,5 @@
+c:\users\abde\documents\visual studio 2010\Projects\ProjectI3332\ProjectI3332\bin\ProjectI3332.dll
+c:\users\abde\documents\visual studio 2010\Projects\ProjectI3332\ProjectI3332\bin\ProjectI3332.pdb
+c:\users\abde\documents\visual studio 2010\Projects\ProjectI3332\ProjectI3332\obj\Debug\ResolveAssemblyReference.cache
+c:\users\abde\documents\visual studio 2010\Projects\ProjectI3332\ProjectI3332\obj\Debug\ProjectI3332.dll
+c:\users\abde\documents\visual studio 2010\Projects\ProjectI3332\ProjectI3332\obj\Debug\ProjectI3332.pdb
